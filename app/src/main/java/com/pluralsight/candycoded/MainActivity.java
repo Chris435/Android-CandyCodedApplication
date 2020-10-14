@@ -81,11 +81,7 @@ public class MainActivity extends AppCompatActivity {
     }
     // ***
     // TODO - Task 1 - Show Store Information Activity
-    @Override
-    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-        
-        return super.onOptionsItemSelected(item);
-    }
+    
     // ***
 
     private void addCandiesToDatabase(Candy[] candies) {
